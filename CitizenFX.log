@@ -1,0 +1,1757 @@
+[         0] Initializing Mono
+[       140] Initializing Mono completed
+[       171] Hello!
+[       359] Found new resource egypt in C:/Users\Administrator\Desktop\FXSERVER/resources//egypt
+[       390] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[       390] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[       406] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       406] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       406] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       421] Found new resource vSync in C:/Users\Administrator\Desktop\FXSERVER/resources//vSync
+[       437] Resource loading for vSync failed:
+[       437] Could not open resource metadata file C:/Users\Administrator\Desktop\FXSERVER/resources//vSync/__resource.lua.
+[       437] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       437] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       453] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       453] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       468] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       468] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       484] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       484] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       484] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       500] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       515] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       515] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       515] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       531] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       531] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       546] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       546] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       562] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[       609] Started resource sessionmanager
+[      2015] Started resource mapmanager
+[      2031] Started resource chat
+[      2046] Started resource spawnmanager
+[      2046] Started resource fivem
+[      2046] Started gametype Freeroam
+[      2062] Started resource hardcap
+[      2078] Started resource rconlog
+[      2078] Started resource scoreboard
+[      2125] Started resource playernames
+[      2125] Started resource egypt
+[      2125] Started resource vSync
+[      2140] Authenticating server license key...
+[      3218] Server license key authentication succeeded. Welcome!
+[      3281] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      3296] Sending heartbeat to live-internal.fivem.net:30110
+[      3296] Started resource fivem-map-hipster
+[      3296] Started map fivem-map-hipster
+[    183343] Sending heartbeat to live-internal.fivem.net:30110
+[    363375] Sending heartbeat to live-internal.fivem.net:30110
+[    476156] hitch warning: frame time of 158 milliseconds
+[    504640] hitch warning: frame time of 180 milliseconds
+[    507640] hitch warning: frame time of 170 milliseconds
+[    507828] hitch warning: frame time of 191 milliseconds
+[    517234] hitch warning: frame time of 203 milliseconds
+[    519171] hitch warning: frame time of 234 milliseconds
+[    520015] hitch warning: frame time of 233 milliseconds
+[    521562] hitch warning: frame time of 228 milliseconds
+[    522187] hitch warning: frame time of 252 milliseconds
+[    524359] hitch warning: frame time of 214 milliseconds
+[         0] Initializing Mono
+[       141] Initializing Mono completed
+[       156] Hello!
+[       281] Found new resource egypt in C:/Users\Administrator\Desktop\FXSERVER/resources//egypt
+[       281] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[       297] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[       297] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       313] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       313] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       313] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       313] Found new resource vSync in C:/Users\Administrator\Desktop\FXSERVER/resources//vSync
+[       328] Resource loading for vSync failed:
+[       328] Could not open resource metadata file C:/Users\Administrator\Desktop\FXSERVER/resources//vSync/__resource.lua.
+[       344] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       344] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       344] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       344] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       360] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       375] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       375] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       391] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       391] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       391] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       406] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       406] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       422] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       422] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       422] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       438] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       438] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       438] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[       485] Started resource sessionmanager
+[       531] Started resource mapmanager
+[       547] Started resource chat
+[       547] Started resource spawnmanager
+[       547] Started resource fivem
+[       563] Started gametype Freeroam
+[       563] Started resource hardcap
+[       563] Started resource rconlog
+[       578] Started resource scoreboard
+[       594] Started resource playernames
+[       594] Started resource egypt
+[       594] Started resource vSync
+[       594] Started resource knockout
+[       594] Authenticating server license key...
+[      1250] Server license key authentication succeeded. Welcome!
+[      1344] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1344] Sending heartbeat to live-internal.fivem.net:30110
+[      1344] Started resource fivem-map-hipster
+[      1360] Started map fivem-map-hipster
+[    181375] Sending heartbeat to live-internal.fivem.net:30110
+[    197375] Connecting: Mike
+[    245250] hitch warning: frame time of 165 milliseconds
+[         0] Initializing Mono
+[       156] Initializing Mono completed
+[       172] Hello!
+[       328] Found new resource egypt in C:/Users\Administrator\Desktop\FXSERVER/resources//egypt
+[       344] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[       344] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[       359] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       359] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       359] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       359] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       375] Found new resource vsync in C:/Users\Administrator\Desktop\FXSERVER/resources//vsync
+[       375] Resource loading for vsync failed:
+[       375] Could not open resource metadata file C:/Users\Administrator\Desktop\FXSERVER/resources//vsync/__resource.lua.
+[       375] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       375] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       406] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       406] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       422] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       422] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       422] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       453] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       469] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       469] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       469] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       469] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       484] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       484] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       500] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       500] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       516] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       516] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[       578] Started resource sessionmanager
+[       656] Started resource mapmanager
+[       672] Started resource chat
+[       672] Started resource spawnmanager
+[       687] Started resource fivem
+[       687] Started gametype Freeroam
+[       687] Started resource hardcap
+[       719] Started resource rconlog
+[       719] Started resource scoreboard
+[       734] Started resource playernames
+[       734] Started resource egypt
+[       734] Started resource vsync
+[       750] Started resource knockout
+[       859] Started resource keks
+[       875] Authenticating server license key...
+[      1469] Server license key authentication succeeded. Welcome!
+[      1547] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1547] Sending heartbeat to live-internal.fivem.net:30110
+[      1562] Started resource fivem-map-skater
+[      1562] Started map fivem-map-skater
+[    175266] Connecting: TheMikexx
+[    181562] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       157] Initializing Mono completed
+[       172] Hello!
+[       344] Found new resource egypt in C:/Users\Administrator\Desktop\FXSERVER/resources//egypt
+[       360] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[       360] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[       360] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       375] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       375] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       375] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       375] Found new resource vsync in C:/Users\Administrator\Desktop\FXSERVER/resources//vsync
+[       391] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       391] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       407] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       407] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       422] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       422] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       422] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       422] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       454] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       454] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       454] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       469] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       469] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       469] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       469] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       485] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       500] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       500] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[       563] Started resource sessionmanager
+[       641] Started resource mapmanager
+[       657] Started resource chat
+[       657] Started resource spawnmanager
+[       657] Started resource fivem
+[       657] Started gametype Freeroam
+[       672] Started resource hardcap
+[       672] Started resource rconlog
+[       688] Started resource scoreboard
+[       704] Started resource playernames
+[       704] Started resource egypt
+[       719] Started resource vsync
+[       735] Started resource knockout
+[       860] Started resource keks
+[       860] Authenticating server license key...
+[      1438] Server license key authentication succeeded. Welcome!
+[      1516] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1516] Sending heartbeat to live-internal.fivem.net:30110
+[      1516] Started resource fivem-map-hipster
+[      1516] Started map fivem-map-hipster
+[     31188] Connecting: TheMikexx
+[     35329] Sending heartbeat to live-internal.fivem.net:30110
+[    201047] Sending heartbeat to live-internal.fivem.net:30110
+[    208610] hitch warning: frame time of 202 milliseconds
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        94] Found new resource egypt in C:/Users\Administrator\Desktop\FXSERVER/resources//egypt
+[        94] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       110] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       110] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       125] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       125] Found new resource vsync in C:/Users\Administrator\Desktop\FXSERVER/resources//vsync
+[       125] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       157] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       188] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       235] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[       266] Started resource sessionmanager
+[       282] Started resource mapmanager
+[       297] Started resource chat
+[       297] Started resource spawnmanager
+[       297] Started resource fivem
+[       297] Started gametype Freeroam
+[       313] Started resource hardcap
+[       313] Started resource rconlog
+[       313] Started resource scoreboard
+[       328] Started resource playernames
+[       328] Started resource egypt
+[       328] Started resource vsync
+[       328] Started resource knockout
+[       469] Started resource keks
+[       469] Authenticating server license key...
+[      1063] Server license key authentication succeeded. Welcome!
+[      1125] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1141] Sending heartbeat to live-internal.fivem.net:30110
+[      1141] Started resource fivem-map-skater
+[      1141] Started map fivem-map-skater
+[     46953] Connecting: TheMikexx
+[     70516] Sending heartbeat to live-internal.fivem.net:30110
+[    237953] hitch warning: frame time of 193 milliseconds
+[    238141] hitch warning: frame time of 188 milliseconds
+[    250563] Sending heartbeat to live-internal.fivem.net:30110
+[    274141] Sending heartbeat to live-internal.fivem.net:30110
+[    288657] hitch warning: frame time of 215 milliseconds
+[    454172] Sending heartbeat to live-internal.fivem.net:30110
+[    634203] Sending heartbeat to live-internal.fivem.net:30110
+[    814266] Sending heartbeat to live-internal.fivem.net:30110
+[    994266] Sending heartbeat to live-internal.fivem.net:30110
+[   1174282] Sending heartbeat to live-internal.fivem.net:30110
+[   1354328] Sending heartbeat to live-internal.fivem.net:30110
+[   1376938] hitch warning: frame time of 242 milliseconds
+[   1534360] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        16] Hello!
+[        78] Found new resource egypt in C:/Users\Administrator\Desktop\FXSERVER/resources//egypt
+[        78] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[        78] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       110] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       110] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       110] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       110] Found new resource vsync in C:/Users\Administrator\Desktop\FXSERVER/resources//vsync
+[       125] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       188] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       188] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       235] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       235] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[       281] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       297] Started resource chat
+[       313] Started resource spawnmanager
+[       313] Started resource fivem
+[       313] Started gametype Freeroam
+[       313] Started resource hardcap
+[       328] Started resource rconlog
+[       344] Started resource scoreboard
+[       344] Started resource playernames
+[       360] Started resource egypt
+[       360] Started resource vsync
+[       360] Started resource knockout
+[       485] Started resource keks
+[       485] Authenticating server license key...
+[      1078] Server license key authentication succeeded. Welcome!
+[      1156] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1156] Sending heartbeat to live-internal.fivem.net:30110
+[      1156] Started resource fivem-map-skater
+[      1156] Started map fivem-map-skater
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[       109] Found new resource egypt in C:/Users\Administrator\Desktop\FXSERVER/resources//egypt
+[       109] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       140] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       140] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       140] Found new resource vsync in C:/Users\Administrator\Desktop\FXSERVER/resources//vsync
+[       140] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       156] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       172] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       187] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       187] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       187] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       203] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       219] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       219] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       250] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       250] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[       281] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       312] Started resource chat
+[       312] Started resource spawnmanager
+[       312] Started resource fivem
+[       312] Started gametype Freeroam
+[       328] Started resource hardcap
+[       328] Started resource rconlog
+[       328] Started resource scoreboard
+[       344] Started resource playernames
+[       344] Started resource vsync
+[       359] Started resource knockout
+[       437] Started resource keks
+[       437] Started resource egypt
+[       437] Authenticating server license key...
+[      1047] Server license key authentication succeeded. Welcome!
+[      1109] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1109] Sending heartbeat to live-internal.fivem.net:30110
+[      1109] Started resource fivem-map-hipster
+[      1109] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[       109] Found new resource egypt in C:/Users\Administrator\Desktop\FXSERVER/resources//egypt
+[       109] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       125] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       125] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       125] Found new resource vsync in C:/Users\Administrator\Desktop\FXSERVER/resources//vsync
+[       125] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       187] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       203] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       250] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[       281] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       297] Started resource chat
+[       312] Started resource spawnmanager
+[       312] Started resource fivem
+[       312] Started gametype Freeroam
+[       328] Started resource hardcap
+[       328] Started resource rconlog
+[       328] Started resource scoreboard
+[       344] Started resource playernames
+[       344] Started resource vsync
+[       359] Started resource knockout
+[       437] Started resource keks
+[       437] Started resource egypt
+[       437] Authenticating server license key...
+[      1094] Server license key authentication succeeded. Welcome!
+[      1187] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      1187] Sending heartbeat to live-internal.fivem.net:30110
+[      1187] Started resource fivem-map-hipster
+[      1187] Started map fivem-map-hipster
+[    100781] Connecting: TheMikexx
+[    120266] Sending heartbeat to live-internal.fivem.net:30110
+[    171297] hitch warning: frame time of 191 milliseconds
+[    300281] Sending heartbeat to live-internal.fivem.net:30110
+[    480281] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       141] Initializing Mono completed
+[       156] Hello!
+[       344] Found new resource Apartments in C:/Users\Administrator\Desktop\FXSERVER/resources//Apartments
+[       359] Found new resource banking in C:/Users\Administrator\Desktop\FXSERVER/resources//banking
+[       375] Found new resource bob74_ipl in C:/Users\Administrator\Desktop\FXSERVER/resources//bob74_ipl
+[       375] Found new resource CustomScripts in C:/Users\Administrator\Desktop\FXSERVER/resources//CustomScripts
+[       391] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[       391] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[       391] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       406] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       422] Found new resource indicators in C:/Users\Administrator\Desktop\FXSERVER/resources//indicators
+[       422] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       437] Found new resource lscustoms in C:/Users\Administrator\Desktop\FXSERVER/resources//lscustoms
+[       437] Found new resource lux_vehcontrol in C:/Users\Administrator\Desktop\FXSERVER/resources//lux_vehcontrol
+[       437] Found new resource map in C:/Users\Administrator\Desktop\FXSERVER/resources//map
+[       453] Found new resource mysql-async in C:/Users\Administrator\Desktop\FXSERVER/resources//mysql-async
+[       469] Found new resource online in C:/Users\Administrator\Desktop\FXSERVER/resources//online
+[       469] Found new resource pNotify in C:/Users\Administrator\Desktop\FXSERVER/resources//pNotify
+[       484] Found new resource pvp in C:/Users\Administrator\Desktop\FXSERVER/resources//pvp
+[       484] Found new resource railhouse in C:/Users\Administrator\Desktop\FXSERVER/resources//railhouse
+[       500] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       500] Found new resource simeonfix in C:/Users\Administrator\Desktop\FXSERVER/resources//simeonfix
+[       516] Found new resource sirencontrols in C:/Users\Administrator\Desktop\FXSERVER/resources//sirencontrols
+[       516] Found new resource ThereMap in C:/Users\Administrator\Desktop\FXSERVER/resources//ThereMap
+[       516] Found new resource TruckerJob in C:/Users\Administrator\Desktop\FXSERVER/resources//TruckerJob
+[       531] Found new resource Vhealth in C:/Users\Administrator\Desktop\FXSERVER/resources//Vhealth
+[       547] Found new resource VK_interiors in C:/Users\Administrator\Desktop\FXSERVER/resources//VK_interiors
+[       547] Found new resource vrp in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp
+[       547] Found new resource vRP_AdvancedFuel in C:/Users\Administrator\Desktop\FXSERVER/resources//vRP_AdvancedFuel
+[       547] Found new resource vrp_bankrobbery in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_bankrobbery
+[       562] Found new resource vrp_barbershop in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_barbershop
+[       578] Found new resource vrp_basic_menu in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_basic_menu
+[       578] Found new resource vrp_basic_mission in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_basic_mission
+[       594] Found new resource vrp_carwash in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_carwash
+[       594] Found new resource vrp_job_display in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_job_display
+[       594] Found new resource vrp_loadfreeze in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_loadfreeze
+[       609] Found new resource vrp_mysql in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_mysql
+[       625] Found new resource vrp_playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_playernames
+[       625] Found new resource vsync in C:/Users\Administrator\Desktop\FXSERVER/resources//vsync
+[       625] Found new resource whitelist in C:/Users\Administrator\Desktop\FXSERVER/resources//whitelist
+[       641] Found new resource blips in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/blips
+[       641] Found new resource club_B in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/club_B
+[       656] Found new resource club_R in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/club_R
+[       656] Found new resource racetrack in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/racetrack
+[       672] Found new resource Audi_C7_RS6 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/Audi_C7_RS6
+[       672] Found new resource Audi_S5 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/Audi_S5
+[       672] Found new resource c10custom in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/c10custom
+[       672] Found new resource chantom in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/chantom
+[       687] Found new resource evo in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/evo
+[       687] Found new resource f4rr in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/f4rr
+[       703] Found new resource firebird in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/firebird
+[       703] Found new resource ford in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/ford
+[       703] Found new resource GT in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/GT
+[       719] Found new resource lamb in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/lamb
+[       719] Found new resource Lexus_RC350 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/Lexus_RC350
+[       734] Found new resource moto in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/moto
+[       734] Found new resource moto2 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/moto2
+[       734] Found new resource moto3 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/moto3
+[       750] Found new resource r8ppi in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/r8ppi
+[       750] Found new resource repairtruck in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/repairtruck
+[       766] Found new resource skyline in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/skyline
+[       766] Found new resource subaruimpreza in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/subaruimpreza
+[       766] Found new resource truck in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/truck
+[       781] Found new resource Ambulance in C:/Users\Administrator\Desktop\FXSERVER/resources//[EMS Vehicles]/Ambulance
+[       781] Found new resource FireTruck in C:/Users\Administrator\Desktop\FXSERVER/resources//[EMS Vehicles]/FireTruck
+[       781] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       797] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       812] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       812] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       812] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       828] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       828] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       844] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       844] Found new resource Ped in C:/Users\Administrator\Desktop\FXSERVER/resources//[Ped]/Ped
+[       859] Found new resource detective in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/detective
+[       859] Found new resource ems in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/ems
+[       859] Found new resource hway in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/hway
+[       875] Found new resource police in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/police
+[       875] Found new resource sheriff in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/sheriff
+[       875] Found new resource sheriffd in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/sheriffd
+[       891] Found new resource swat in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/swat
+[       891] Found new resource bcso in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/bcso
+[       891] Found new resource Captain14_LSPD in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/Captain14_LSPD
+[       906] Found new resource Captain14_Sheriff in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/Captain14_Sheriff
+[       922] Found new resource DodgeCharger2014 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/DodgeCharger2014
+[       922] Found new resource FordExplorer in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/FordExplorer
+[       922] Found new resource hwycars in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/hwycars
+[       922] Found new resource pol718 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/pol718
+[       937] Found new resource polf430 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/polf430
+[       937] Found new resource policeb in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/policeb
+[       953] Found new resource polmav in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/polmav
+[       953] Found new resource riot in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/riot
+[       953] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       969] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       969] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       969] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       984] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       984] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[      1000] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[      1000] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[      1000] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[      1016] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[      1078] Started resource sessionmanager
+[      1156] Could not bind on 52.15.152.93:30120 - is this address valid and not already in use?
+[      1156] Started resource mapmanager
+[      1172] Started resource chat
+[      1172] Started resource spawnmanager
+[      1187] Started resource fivem
+[      1187] Started gametype Freeroam
+[      1187] Started resource hardcap
+[      1203] Started resource rconlog
+[      1203] Started resource scoreboard
+[      1703] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_218367016
+[      1719] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1719] Started resource mysql-async
+[      1781] Started resource playernames
+[      1797] Started resource vsync
+[      1891] Started resource keks
+[      2141] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1751269663
+[      2219] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[      2219] 
+[      2219] 
+[      2219] Server stack trace: 
+[      2219]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2219]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      2219]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      2219]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      2219]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      2219]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      2219] 
+[      2219] Exception rethrown at [0]: 
+[      2219]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      2219]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      2234] Instantiated instance of script vRP.MySQL.
+[      2250] Started resource vrp_mysql
+[      2453] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1751269663
+[      2641] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1751269663
+[      2844] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1751269663
+[      2859] [vRP] launch version 1498403827
+[      2891] [vRP] init base tables
+[      3062] Started resource vrp
+[      3078] Started resource vrp_playernames
+[      3109] Started resource vrp_basic_mission
+[      3125] Started resource vrp_barbershop
+[      3141] Started resource vrp_carwash
+[      3156] Started resource vrp_loadfreeze
+[      3156] launched
+[      3172] Started resource vRP_AdvancedFuel
+[      3187] Started resource vrp_job_display
+[      3187] Started resource vrp_bankrobbery
+[      3234] Started resource vrp_basic_menu
+[      3234] Started resource railhouse
+[      3266] Started resource online
+[      3281] Started resource bob74_ipl
+[      3281] Started resource pvp
+[      5891] Started resource Ped
+[      5906] Started resource banking
+[      5922] Started resource blips
+[      5922] Started resource club_B
+[      5937] Started resource club_R
+[      5937] Started resource racetrack
+[      6047] Started resource map
+[      6047] Started resource Vhealth
+[      6062] Started resource VK_interiors
+[      6078] Started resource ThereMap
+[      6078] Started resource indicators
+[      6094] Started resource simeonfix
+[      6109] Started resource pNotify
+[      6109] Started resource lux_vehcontrol
+[      6125] Started resource lscustoms
+[      6141] Started resource TruckerJob
+[      6156] Started resource CustomScripts
+[      7172] Started resource bcso
+[      7766] Started resource Captain14_LSPD
+[      7875] Started resource Captain14_Sheriff
+[      8094] Started resource DodgeCharger2014
+[      8266] Started resource FordExplorer
+[      9891] Started resource hwycars
+[     10141] Started resource pol718
+[     10641] Started resource polf430
+[     10797] Started resource policeb
+[     10984] Started resource polmav
+[     11328] Started resource riot
+[     11406] Started resource detective
+[     11469] Started resource ems
+[     11937] Started resource hway
+[     12422] Started resource police
+[     13391] Started resource sheriff
+[     13797] Started resource sheriffd
+[     13844] Started resource swat
+[     13875] Started resource repairtruck
+[     14391] Started resource Audi_C7_RS6
+[     14703] Started resource Audi_S5
+[     15281] Started resource Lexus_RC350
+[     15687] Started resource r8ppi
+[     15781] Started resource c10custom
+[     15844] Started resource chantom
+[     16281] Started resource skyline
+[     16781] Started resource subaruimpreza
+[     16953] Started resource f4rr
+[     17031] Started resource firebird
+[     17187] Started resource ford
+[     17359] Started resource GT
+[     17641] Started resource moto
+[     17766] Started resource moto2
+[     17906] Started resource moto3
+[     18062] Started resource evo
+[     18437] Started resource truck
+[     18437] Could not open logo.png for reading.
+[     18453] Authenticating server license key...
+[     19297] Server license key authentication succeeded. Welcome!
+[     19406] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[     19406] Sending heartbeat to live-internal.fivem.net:30110
+[     19453] Started resource fivem-map-hipster
+[     19453] Started map fivem-map-hipster
+[     19531] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_218367016
+[     19656] hitch warning: frame time of 283 milliseconds
+[     25578] hitch warning: frame time of 190 milliseconds
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        94] Found new resource Apartments in C:/Users\Administrator\Desktop\FXSERVER/resources//Apartments
+[        94] Found new resource banking in C:/Users\Administrator\Desktop\FXSERVER/resources//banking
+[        94] Found new resource bob74_ipl in C:/Users\Administrator\Desktop\FXSERVER/resources//bob74_ipl
+[        94] Found new resource CustomScripts in C:/Users\Administrator\Desktop\FXSERVER/resources//CustomScripts
+[       109] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       125] Found new resource indicators in C:/Users\Administrator\Desktop\FXSERVER/resources//indicators
+[       125] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       125] Found new resource lscustoms in C:/Users\Administrator\Desktop\FXSERVER/resources//lscustoms
+[       156] Found new resource lux_vehcontrol in C:/Users\Administrator\Desktop\FXSERVER/resources//lux_vehcontrol
+[       156] Found new resource map in C:/Users\Administrator\Desktop\FXSERVER/resources//map
+[       156] Found new resource mysql-async in C:/Users\Administrator\Desktop\FXSERVER/resources//mysql-async
+[       156] Found new resource online in C:/Users\Administrator\Desktop\FXSERVER/resources//online
+[       172] Found new resource pNotify in C:/Users\Administrator\Desktop\FXSERVER/resources//pNotify
+[       172] Found new resource pvp in C:/Users\Administrator\Desktop\FXSERVER/resources//pvp
+[       172] Found new resource railhouse in C:/Users\Administrator\Desktop\FXSERVER/resources//railhouse
+[       203] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       203] Found new resource simeonfix in C:/Users\Administrator\Desktop\FXSERVER/resources//simeonfix
+[       203] Found new resource sirencontrols in C:/Users\Administrator\Desktop\FXSERVER/resources//sirencontrols
+[       203] Found new resource ThereMap in C:/Users\Administrator\Desktop\FXSERVER/resources//ThereMap
+[       219] Found new resource TruckerJob in C:/Users\Administrator\Desktop\FXSERVER/resources//TruckerJob
+[       219] Found new resource Vhealth in C:/Users\Administrator\Desktop\FXSERVER/resources//Vhealth
+[       234] Found new resource VK_interiors in C:/Users\Administrator\Desktop\FXSERVER/resources//VK_interiors
+[       234] Found new resource vrp in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp
+[       250] Found new resource vRP_AdvancedFuel in C:/Users\Administrator\Desktop\FXSERVER/resources//vRP_AdvancedFuel
+[       250] Found new resource vrp_bankrobbery in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_bankrobbery
+[       250] Found new resource vrp_barbershop in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_barbershop
+[       265] Found new resource vrp_basic_menu in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_basic_menu
+[       281] Found new resource vrp_basic_mission in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_basic_mission
+[       281] Found new resource vrp_carwash in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_carwash
+[       281] Found new resource vrp_job_display in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_job_display
+[       281] Found new resource vrp_loadfreeze in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_loadfreeze
+[       297] Found new resource vrp_mysql in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_mysql
+[       297] Found new resource vrp_playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_playernames
+[       297] Found new resource vsync in C:/Users\Administrator\Desktop\FXSERVER/resources//vsync
+[       312] Found new resource whitelist in C:/Users\Administrator\Desktop\FXSERVER/resources//whitelist
+[       328] Found new resource blips in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/blips
+[       328] Found new resource club_B in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/club_B
+[       328] Found new resource club_R in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/club_R
+[       328] Found new resource racetrack in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/racetrack
+[       344] Found new resource Audi_C7_RS6 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/Audi_C7_RS6
+[       359] Found new resource Audi_S5 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/Audi_S5
+[       359] Found new resource c10custom in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/c10custom
+[       359] Found new resource chantom in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/chantom
+[       375] Found new resource evo in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/evo
+[       375] Found new resource f4rr in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/f4rr
+[       375] Found new resource firebird in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/firebird
+[       375] Found new resource ford in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/ford
+[       390] Found new resource GT in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/GT
+[       390] Found new resource lamb in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/lamb
+[       406] Found new resource Lexus_RC350 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/Lexus_RC350
+[       406] Found new resource moto in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/moto
+[       406] Found new resource moto2 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/moto2
+[       422] Found new resource moto3 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/moto3
+[       422] Found new resource r8ppi in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/r8ppi
+[       437] Found new resource repairtruck in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/repairtruck
+[       437] Found new resource skyline in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/skyline
+[       437] Found new resource subaruimpreza in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/subaruimpreza
+[       453] Found new resource truck in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/truck
+[       453] Found new resource Ambulance in C:/Users\Administrator\Desktop\FXSERVER/resources//[EMS Vehicles]/Ambulance
+[       453] Found new resource FireTruck in C:/Users\Administrator\Desktop\FXSERVER/resources//[EMS Vehicles]/FireTruck
+[       469] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       469] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       484] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       484] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       484] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       500] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       500] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       515] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       515] Found new resource Ped in C:/Users\Administrator\Desktop\FXSERVER/resources//[Ped]/Ped
+[       515] Found new resource detective in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/detective
+[       531] Found new resource ems in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/ems
+[       531] Found new resource hway in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/hway
+[       547] Found new resource police in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/police
+[       547] Found new resource sheriff in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/sheriff
+[       547] Found new resource sheriffd in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/sheriffd
+[       562] Found new resource swat in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/swat
+[       562] Found new resource bcso in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/bcso
+[       562] Found new resource Captain14_LSPD in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/Captain14_LSPD
+[       578] Found new resource Captain14_Sheriff in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/Captain14_Sheriff
+[       578] Found new resource DodgeCharger2014 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/DodgeCharger2014
+[       594] Found new resource FordExplorer in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/FordExplorer
+[       594] Found new resource hwycars in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/hwycars
+[       594] Found new resource pol718 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/pol718
+[       609] Found new resource polf430 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/polf430
+[       625] Found new resource policeb in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/policeb
+[       625] Found new resource polmav in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/polmav
+[       625] Found new resource riot in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/riot
+[       640] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       640] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       656] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       656] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       672] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       672] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       672] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       687] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       687] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       687] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[       734] Started resource sessionmanager
+[       765] Started resource mapmanager
+[       765] Started resource chat
+[       781] Started resource spawnmanager
+[       781] Started resource fivem
+[       781] Started gametype Freeroam
+[       797] Started resource hardcap
+[       797] Started resource rconlog
+[       797] Started resource scoreboard
+[      1265] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_26901362
+[      1281] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1281] Started resource mysql-async
+[      1312] Started resource playernames
+[      1328] Started resource vsync
+[      1422] Started resource keks
+[      1672] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1220050869
+[      1750] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[      1750] 
+[      1750] 
+[      1750] Server stack trace: 
+[      1750]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1750]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1750]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1750]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      1750]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1750]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      1750] 
+[      1750] Exception rethrown at [0]: 
+[      1750]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1750]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      1781] Instantiated instance of script vRP.MySQL.
+[      1781] Started resource vrp_mysql
+[      1922] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1220050869
+[      2031] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1220050869
+[      2172] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1220050869
+[      2187] [vRP] launch version 1498403827
+[      2203] [vRP] init base tables
+[      2359] Started resource vrp
+[      2375] Started resource vrp_playernames
+[      2390] Started resource vrp_basic_mission
+[      2422] Started resource vrp_barbershop
+[      2422] Started resource vrp_carwash
+[      2437] Started resource vrp_loadfreeze
+[      2437] launched
+[      2453] Started resource vRP_AdvancedFuel
+[      2453] Started resource vrp_job_display
+[      2469] Started resource vrp_bankrobbery
+[      2500] Started resource vrp_basic_menu
+[      2500] Started resource railhouse
+[      2515] Started resource online
+[      2515] Started resource bob74_ipl
+[      2515] Started resource pvp
+[      2547] Started resource Ped
+[      2562] Started resource banking
+[      2562] Started resource blips
+[      2578] Started resource club_B
+[      2578] Started resource club_R
+[      2578] Started resource racetrack
+[      2594] Started resource map
+[      2594] Started resource Vhealth
+[      2594] Started resource VK_interiors
+[      2609] Started resource ThereMap
+[      2609] Started resource indicators
+[      2625] Started resource simeonfix
+[      2625] Started resource pNotify
+[      2640] Started resource lux_vehcontrol
+[      2656] Started resource lscustoms
+[      2656] Started resource TruckerJob
+[      2672] Started resource CustomScripts
+[      2672] Started resource bcso
+[      2687] Started resource Captain14_LSPD
+[      2687] Started resource Captain14_Sheriff
+[      2703] Started resource DodgeCharger2014
+[      2703] Started resource FordExplorer
+[      2719] Started resource hwycars
+[      2719] Started resource pol718
+[      2719] Started resource polf430
+[      2734] Started resource policeb
+[      2734] Started resource polmav
+[      2781] Started resource riot
+[      2797] Started resource detective
+[      2797] Started resource ems
+[      2812] Started resource hway
+[      2812] Started resource police
+[      2812] Started resource sheriff
+[      2828] Started resource sheriffd
+[      2828] Started resource swat
+[      2828] Started resource repairtruck
+[      2844] Started resource Audi_C7_RS6
+[      2844] Started resource Audi_S5
+[      2844] Started resource Lexus_RC350
+[      2859] Started resource r8ppi
+[      2859] Started resource c10custom
+[      2875] Started resource chantom
+[      2875] Started resource skyline
+[      2875] Started resource subaruimpreza
+[      2875] Started resource f4rr
+[      2890] Started resource firebird
+[      2890] Started resource ford
+[      2890] Started resource GT
+[      2906] Started resource moto
+[      2906] Started resource moto2
+[      2906] Started resource moto3
+[      2906] Started resource evo
+[      2922] Started resource truck
+[      2922] Could not open logo.png for reading.
+[      2922] Authenticating server license key...
+[      3500] Server license key authentication succeeded. Welcome!
+[      3594] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      3594] Sending heartbeat to live-internal.fivem.net:30110
+[      3640] Started resource fivem-map-skater
+[      3640] Started map fivem-map-skater
+[      3703] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_26901362
+[      3828] hitch warning: frame time of 286 milliseconds
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        15] Hello!
+[        78] Found new resource Apartments in C:/Users\Administrator\Desktop\FXSERVER/resources//Apartments
+[        78] Found new resource banking in C:/Users\Administrator\Desktop\FXSERVER/resources//banking
+[        78] Found new resource bob74_ipl in C:/Users\Administrator\Desktop\FXSERVER/resources//bob74_ipl
+[        93] Found new resource CustomScripts in C:/Users\Administrator\Desktop\FXSERVER/resources//CustomScripts
+[        93] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       125] Found new resource indicators in C:/Users\Administrator\Desktop\FXSERVER/resources//indicators
+[       125] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       125] Found new resource lscustoms in C:/Users\Administrator\Desktop\FXSERVER/resources//lscustoms
+[       140] Found new resource lux_vehcontrol in C:/Users\Administrator\Desktop\FXSERVER/resources//lux_vehcontrol
+[       156] Found new resource map in C:/Users\Administrator\Desktop\FXSERVER/resources//map
+[       156] Found new resource mysql-async in C:/Users\Administrator\Desktop\FXSERVER/resources//mysql-async
+[       156] Found new resource online in C:/Users\Administrator\Desktop\FXSERVER/resources//online
+[       156] Found new resource pNotify in C:/Users\Administrator\Desktop\FXSERVER/resources//pNotify
+[       171] Found new resource pvp in C:/Users\Administrator\Desktop\FXSERVER/resources//pvp
+[       171] Found new resource railhouse in C:/Users\Administrator\Desktop\FXSERVER/resources//railhouse
+[       171] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       187] Found new resource simeonfix in C:/Users\Administrator\Desktop\FXSERVER/resources//simeonfix
+[       187] Found new resource sirencontrols in C:/Users\Administrator\Desktop\FXSERVER/resources//sirencontrols
+[       203] Found new resource ThereMap in C:/Users\Administrator\Desktop\FXSERVER/resources//ThereMap
+[       203] Found new resource TruckerJob in C:/Users\Administrator\Desktop\FXSERVER/resources//TruckerJob
+[       203] Found new resource Vhealth in C:/Users\Administrator\Desktop\FXSERVER/resources//Vhealth
+[       203] Found new resource VK_interiors in C:/Users\Administrator\Desktop\FXSERVER/resources//VK_interiors
+[       218] Found new resource vrp in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp
+[       234] Found new resource vRP_AdvancedFuel in C:/Users\Administrator\Desktop\FXSERVER/resources//vRP_AdvancedFuel
+[       234] Found new resource vrp_bankrobbery in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_bankrobbery
+[       234] Found new resource vrp_barbershop in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_barbershop
+[       250] Found new resource vrp_basic_menu in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_basic_menu
+[       250] Found new resource vrp_basic_mission in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_basic_mission
+[       250] Found new resource vrp_carwash in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_carwash
+[       250] Found new resource vrp_job_display in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_job_display
+[       265] Found new resource vrp_loadfreeze in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_loadfreeze
+[       281] Found new resource vrp_mysql in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_mysql
+[       281] Found new resource vrp_playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_playernames
+[       281] Found new resource vsync in C:/Users\Administrator\Desktop\FXSERVER/resources//vsync
+[       281] Found new resource whitelist in C:/Users\Administrator\Desktop\FXSERVER/resources//whitelist
+[       296] Found new resource blips in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/blips
+[       312] Found new resource club_B in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/club_B
+[       312] Found new resource club_R in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/club_R
+[       312] Found new resource racetrack in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/racetrack
+[       328] Found new resource Audi_C7_RS6 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/Audi_C7_RS6
+[       328] Found new resource Audi_S5 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/Audi_S5
+[       328] Found new resource c10custom in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/c10custom
+[       328] Found new resource chantom in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/chantom
+[       343] Found new resource evo in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/evo
+[       359] Found new resource f4rr in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/f4rr
+[       359] Found new resource firebird in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/firebird
+[       359] Found new resource ford in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/ford
+[       359] Found new resource GT in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/GT
+[       375] Found new resource lamb in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/lamb
+[       375] Found new resource Lexus_RC350 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/Lexus_RC350
+[       390] Found new resource moto in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/moto
+[       390] Found new resource moto2 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/moto2
+[       390] Found new resource moto3 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/moto3
+[       406] Found new resource r8ppi in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/r8ppi
+[       406] Found new resource repairtruck in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/repairtruck
+[       406] Found new resource skyline in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/skyline
+[       421] Found new resource subaruimpreza in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/subaruimpreza
+[       421] Found new resource truck in C:/Users\Administrator\Desktop\FXSERVER/resources//[Civilian Cars]/truck
+[       421] Found new resource Ambulance in C:/Users\Administrator\Desktop\FXSERVER/resources//[EMS Vehicles]/Ambulance
+[       437] Found new resource FireTruck in C:/Users\Administrator\Desktop\FXSERVER/resources//[EMS Vehicles]/FireTruck
+[       437] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       453] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       453] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       453] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       468] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       468] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       468] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       484] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       484] Found new resource Ped in C:/Users\Administrator\Desktop\FXSERVER/resources//[Ped]/Ped
+[       500] Found new resource detective in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/detective
+[       500] Found new resource ems in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/ems
+[       500] Found new resource hway in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/hway
+[       500] Found new resource police in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/police
+[       515] Found new resource sheriff in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/sheriff
+[       515] Found new resource sheriffd in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/sheriffd
+[       531] Found new resource swat in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/swat
+[       546] Found new resource bcso in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/bcso
+[       546] Found new resource Captain14_LSPD in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/Captain14_LSPD
+[       546] Found new resource Captain14_Sheriff in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/Captain14_Sheriff
+[       562] Found new resource DodgeCharger2014 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/DodgeCharger2014
+[       578] Found new resource FordExplorer in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/FordExplorer
+[       578] Found new resource hwycars in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/hwycars
+[       578] Found new resource pol718 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/pol718
+[       593] Found new resource polf430 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/polf430
+[       609] Found new resource policeb in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/policeb
+[       609] Found new resource polmav in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/polmav
+[       609] Found new resource riot in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/riot
+[       609] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       625] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       625] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       625] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       640] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       640] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       656] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       656] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       656] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       671] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[       703] Started resource sessionmanager
+[       718] Started resource mapmanager
+[       718] Started resource chat
+[       734] Started resource spawnmanager
+[       734] Started resource fivem
+[       734] Started gametype Freeroam
+[       750] Started resource hardcap
+[       750] Started resource rconlog
+[       750] Started resource scoreboard
+[      1203] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1043699496
+[      1218] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1234] Started resource mysql-async
+[      1265] Started resource playernames
+[      1281] Started resource vsync
+[      1359] Started resource keks
+[      1593] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_930252716
+[      1671] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[      1671] 
+[      1671] 
+[      1671] Server stack trace: 
+[      1671]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      1671]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1671]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      1671]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      1671]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1671]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      1671] 
+[      1671] Exception rethrown at [0]: 
+[      1687]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      1687]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      1687] Instantiated instance of script vRP.MySQL.
+[      1703] Started resource vrp_mysql
+[      1843] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_930252716
+[      1953] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_930252716
+[      2093] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_930252716
+[      2109] [vRP] launch version 1498403827
+[      2125] [vRP] init base tables
+[      2218] Started resource vrp
+[      2234] Started resource vrp_playernames
+[      2250] Started resource vrp_basic_mission
+[      2265] Started resource vrp_barbershop
+[      2265] Started resource vrp_carwash
+[      2281] Started resource vrp_loadfreeze
+[      2281] launched
+[      2281] Started resource vRP_AdvancedFuel
+[      2296] Started resource vrp_job_display
+[      2312] Started resource vrp_bankrobbery
+[      2343] Started resource vrp_basic_menu
+[      2343] Started resource railhouse
+[      2343] Started resource online
+[      2359] Started resource bob74_ipl
+[      2359] Started resource pvp
+[      2375] Started resource Ped
+[      2375] Started resource banking
+[      2390] Started resource blips
+[      2390] Started resource club_B
+[      2390] Started resource club_R
+[      2406] Started resource racetrack
+[      2406] Started resource map
+[      2406] Started resource Vhealth
+[      2421] Started resource VK_interiors
+[      2421] Started resource ThereMap
+[      2421] Started resource indicators
+[      2437] Started resource simeonfix
+[      2437] Started resource pNotify
+[      2453] Started resource lux_vehcontrol
+[      2453] Started resource lscustoms
+[      2468] Started resource TruckerJob
+[      2468] Started resource CustomScripts
+[      2484] Started resource bcso
+[      2484] Started resource Captain14_LSPD
+[      2500] Started resource Captain14_Sheriff
+[      2500] Started resource DodgeCharger2014
+[      2500] Started resource FordExplorer
+[      2515] Started resource hwycars
+[      2515] Started resource pol718
+[      2531] Started resource polf430
+[      2531] Started resource policeb
+[      2531] Started resource polmav
+[      2578] Started resource riot
+[      2578] Started resource detective
+[      2593] Started resource ems
+[      2593] Started resource hway
+[      2593] Started resource police
+[      2593] Started resource sheriff
+[      2609] Started resource sheriffd
+[      2609] Started resource swat
+[      2609] Started resource repairtruck
+[      2625] Started resource Audi_C7_RS6
+[      2625] Started resource Audi_S5
+[      2625] Started resource Lexus_RC350
+[      2625] Started resource r8ppi
+[      2640] Started resource c10custom
+[      2640] Started resource chantom
+[      2640] Started resource skyline
+[      2656] Started resource subaruimpreza
+[      2656] Started resource f4rr
+[      2656] Started resource firebird
+[      2656] Started resource ford
+[      2671] Started resource GT
+[      2671] Started resource moto
+[      2671] Started resource moto2
+[      2687] Started resource moto3
+[      2687] Started resource evo
+[      2687] Started resource truck
+[      2687] Could not open logo.png for reading.
+[      2703] Authenticating server license key...
+[      3218] Server license key authentication succeeded. Welcome!
+[      3265] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      3281] Sending heartbeat to live-internal.fivem.net:30110
+[      3328] Started resource fivem-map-skater
+[      3343] Started map fivem-map-skater
+[      3406] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1043699496
+[      3546] hitch warning: frame time of 279 milliseconds
+[     31109] hitch warning: frame time of 213 milliseconds
+[    101781] Connecting: TheMikexx
+[    102875] [vRP] TheMikexx (95.18.209.144) joined (user_id = 1)
+[    140125] [vRP] 95.18.209.144 disconnected (user_id = 1)
+[    140125] Sending heartbeat to live-internal.fivem.net:30110
+[    166765] Connecting: TheMikexx
+[    167250] [vRP] TheMikexx (95.18.209.144) joined (user_id = 1)
+[    174312] Sending heartbeat to live-internal.fivem.net:30110
+[    281578] Syncing weather for: TheMikexx
+[    281578] Syncing weather for: TheMikexx
+[    283718] [{"locked":false},{"locked":false},{"locked":false},{"locked":false}]
+[    354328] Sending heartbeat to live-internal.fivem.net:30110
+[    534390] Sending heartbeat to live-internal.fivem.net:30110
+[    637296] [vRP] 95.18.209.144 disconnected (user_id = 1)
+[    637328] Sending heartbeat to live-internal.fivem.net:30110
+[    817359] Sending heartbeat to live-internal.fivem.net:30110
+[    997390] Sending heartbeat to live-internal.fivem.net:30110
+[   1177390] Sending heartbeat to live-internal.fivem.net:30110
+[   1357437] Sending heartbeat to live-internal.fivem.net:30110
+[   1537484] Sending heartbeat to live-internal.fivem.net:30110
+[   1717515] Sending heartbeat to live-internal.fivem.net:30110
+[   1897546] Sending heartbeat to live-internal.fivem.net:30110
+[   2077546] Sending heartbeat to live-internal.fivem.net:30110
+[   2257593] Sending heartbeat to live-internal.fivem.net:30110
+[   2437640] Sending heartbeat to live-internal.fivem.net:30110
+[   2617671] Sending heartbeat to live-internal.fivem.net:30110
+[   2797671] Sending heartbeat to live-internal.fivem.net:30110
+[   2977687] Sending heartbeat to live-internal.fivem.net:30110
+[   3157703] Sending heartbeat to live-internal.fivem.net:30110
+[   3337718] Sending heartbeat to live-internal.fivem.net:30110
+[   3517765] Sending heartbeat to live-internal.fivem.net:30110
+[   3697796] Sending heartbeat to live-internal.fivem.net:30110
+[   3877828] Sending heartbeat to live-internal.fivem.net:30110
+[   4057859] Sending heartbeat to live-internal.fivem.net:30110
+[   4237890] Sending heartbeat to live-internal.fivem.net:30110
+[   4417921] Sending heartbeat to live-internal.fivem.net:30110
+[   4597937] Sending heartbeat to live-internal.fivem.net:30110
+[   4777984] Sending heartbeat to live-internal.fivem.net:30110
+[   4957984] Sending heartbeat to live-internal.fivem.net:30110
+[   5138015] Sending heartbeat to live-internal.fivem.net:30110
+[   5318046] Sending heartbeat to live-internal.fivem.net:30110
+[   5498046] Sending heartbeat to live-internal.fivem.net:30110
+[   5678093] Sending heartbeat to live-internal.fivem.net:30110
+[   5858140] Sending heartbeat to live-internal.fivem.net:30110
+[   6038187] Sending heartbeat to live-internal.fivem.net:30110
+[   6218203] Sending heartbeat to live-internal.fivem.net:30110
+[   6398218] Sending heartbeat to live-internal.fivem.net:30110
+[   6578265] Sending heartbeat to live-internal.fivem.net:30110
+[   6758312] Sending heartbeat to live-internal.fivem.net:30110
+[   6938343] Sending heartbeat to live-internal.fivem.net:30110
+[   7118390] Sending heartbeat to live-internal.fivem.net:30110
+[   7298421] Sending heartbeat to live-internal.fivem.net:30110
+[   7478468] Sending heartbeat to live-internal.fivem.net:30110
+[   7658500] Sending heartbeat to live-internal.fivem.net:30110
+[   7838531] Sending heartbeat to live-internal.fivem.net:30110
+[   8018546] Sending heartbeat to live-internal.fivem.net:30110
+[   8198593] Sending heartbeat to live-internal.fivem.net:30110
+[   8329500] Connecting: jor
+[   8330750] [vRP] jor (85.50.66.203) joined (user_id = 2)
+[   8348312] Sending heartbeat to live-internal.fivem.net:30110
+[   8392359] Syncing weather for: jor
+[   8393109] [{"locked":false},{"locked":false},{"locked":false},{"locked":false}]
+[   8528359] Sending heartbeat to live-internal.fivem.net:30110
+[   8708406] Sending heartbeat to live-internal.fivem.net:30110
+[   8888437] Sending heartbeat to live-internal.fivem.net:30110
+[   8916093] Connecting: Lil Pepe da Chousa
+[   8917312] [vRP] Lil Pepe da Chousa (193.125.95.195) joined (user_id = 3)
+[   8959703] [vRP] 193.125.95.195 disconnected (user_id = 3)
+[   8959703] Sending heartbeat to live-internal.fivem.net:30110
+[   9111656] Connecting: Lil Pepe da Chousa
+[   9112125] [vRP] Lil Pepe da Chousa (193.125.95.195) joined (user_id = 3)
+[   9119375] Sending heartbeat to live-internal.fivem.net:30110
+[   9183640] Syncing weather for: Lil Pepe da Chousa
+[   9186187] [{"locked":false},{"locked":false},{"locked":false},{"locked":false}]
+[   9198203] Lil Pepe da Chousa: que carallo es esto
+[   9227328] jor: nuse
+[   9299390] Sending heartbeat to live-internal.fivem.net:30110
+[   9301000] Lil Pepe da Chousa: que se puede hacer
+[   9310046] Lil Pepe da Chousa: es roleplay?
+[   9313015] jor: nuse toy aqui probando cosillas
+[   9369546] [vRP] 193.125.95.195 disconnected (user_id = 3)
+[   9369562] Sending heartbeat to live-internal.fivem.net:30110
+[   9536359] jor: hola pepe
+[   9549578] Sending heartbeat to live-internal.fivem.net:30110
+[   9729593] Sending heartbeat to live-internal.fivem.net:30110
+[   9832875] [vRP] 85.50.66.203 disconnected (user_id = 2)
+[   9832921] Sending heartbeat to live-internal.fivem.net:30110
+[  10012953] Sending heartbeat to live-internal.fivem.net:30110
+[  10193000] Sending heartbeat to live-internal.fivem.net:30110
+[  10373000] Sending heartbeat to live-internal.fivem.net:30110
+[  10553046] Sending heartbeat to live-internal.fivem.net:30110
+[  10733078] Sending heartbeat to live-internal.fivem.net:30110
+[  10913093] Sending heartbeat to live-internal.fivem.net:30110
+[  11093125] Sending heartbeat to live-internal.fivem.net:30110
+[  11273125] Sending heartbeat to live-internal.fivem.net:30110
+[  11453156] Sending heartbeat to live-internal.fivem.net:30110
+[  11633156] Sending heartbeat to live-internal.fivem.net:30110
+[  11813203] Sending heartbeat to live-internal.fivem.net:30110
+[  11993250] Sending heartbeat to live-internal.fivem.net:30110
+[  12173296] Sending heartbeat to live-internal.fivem.net:30110
+[  12353343] Sending heartbeat to live-internal.fivem.net:30110
+[  12533343] Sending heartbeat to live-internal.fivem.net:30110
+[  12713359] Sending heartbeat to live-internal.fivem.net:30110
+[  12893390] Sending heartbeat to live-internal.fivem.net:30110
+[  13073421] Sending heartbeat to live-internal.fivem.net:30110
+[  13253453] Sending heartbeat to live-internal.fivem.net:30110
+[  13433515] Sending heartbeat to live-internal.fivem.net:30110
+[  13613531] Sending heartbeat to live-internal.fivem.net:30110
+[  13793531] Sending heartbeat to live-internal.fivem.net:30110
+[  13973562] Sending heartbeat to live-internal.fivem.net:30110
+[  14153578] Sending heartbeat to live-internal.fivem.net:30110
+[  14333625] Sending heartbeat to live-internal.fivem.net:30110
+[  14513671] Sending heartbeat to live-internal.fivem.net:30110
+[  14693671] Sending heartbeat to live-internal.fivem.net:30110
+[  14873687] Sending heartbeat to live-internal.fivem.net:30110
+[  15053718] Sending heartbeat to live-internal.fivem.net:30110
+[  15233750] Sending heartbeat to live-internal.fivem.net:30110
+[  15413796] Sending heartbeat to live-internal.fivem.net:30110
+[  15593828] Sending heartbeat to live-internal.fivem.net:30110
+[  15773875] Sending heartbeat to live-internal.fivem.net:30110
+[  15953921] Sending heartbeat to live-internal.fivem.net:30110
+[  16133968] Sending heartbeat to live-internal.fivem.net:30110
+[  16314000] Sending heartbeat to live-internal.fivem.net:30110
+[  16494000] Sending heartbeat to live-internal.fivem.net:30110
+[  16674046] Sending heartbeat to live-internal.fivem.net:30110
+[  16854062] Sending heartbeat to live-internal.fivem.net:30110
+[  17034078] Sending heartbeat to live-internal.fivem.net:30110
+[  17214093] Sending heartbeat to live-internal.fivem.net:30110
+[  17394125] Sending heartbeat to live-internal.fivem.net:30110
+[  17574171] Sending heartbeat to live-internal.fivem.net:30110
+[  17754218] Sending heartbeat to live-internal.fivem.net:30110
+[  17934250] Sending heartbeat to live-internal.fivem.net:30110
+[  18114250] Sending heartbeat to live-internal.fivem.net:30110
+[  18294281] Sending heartbeat to live-internal.fivem.net:30110
+[  18474312] Sending heartbeat to live-internal.fivem.net:30110
+[  18654359] Sending heartbeat to live-internal.fivem.net:30110
+[  18834375] Sending heartbeat to live-internal.fivem.net:30110
+[  19014390] Sending heartbeat to live-internal.fivem.net:30110
+[  19194390] Sending heartbeat to live-internal.fivem.net:30110
+[  19374437] Sending heartbeat to live-internal.fivem.net:30110
+[  19554468] Sending heartbeat to live-internal.fivem.net:30110
+[  19734484] Sending heartbeat to live-internal.fivem.net:30110
+[  19914531] Sending heartbeat to live-internal.fivem.net:30110
+[  20094546] Sending heartbeat to live-internal.fivem.net:30110
+[  20274562] Sending heartbeat to live-internal.fivem.net:30110
+[  20454578] Sending heartbeat to live-internal.fivem.net:30110
+[  20634609] Sending heartbeat to live-internal.fivem.net:30110
+[  20814640] Sending heartbeat to live-internal.fivem.net:30110
+[  20994671] Sending heartbeat to live-internal.fivem.net:30110
+[  21174671] Sending heartbeat to live-internal.fivem.net:30110
+[  21354703] Sending heartbeat to live-internal.fivem.net:30110
+[  21534718] Sending heartbeat to live-internal.fivem.net:30110
+[  21714750] Sending heartbeat to live-internal.fivem.net:30110
+[  21894750] Sending heartbeat to live-internal.fivem.net:30110
+[  22074765] Sending heartbeat to live-internal.fivem.net:30110
+[  22254812] Sending heartbeat to live-internal.fivem.net:30110
+[  22434812] Sending heartbeat to live-internal.fivem.net:30110
+[  22614843] Sending heartbeat to live-internal.fivem.net:30110
+[  22794875] Sending heartbeat to live-internal.fivem.net:30110
+[  22974890] Sending heartbeat to live-internal.fivem.net:30110
+[  23154921] Sending heartbeat to live-internal.fivem.net:30110
+[  23334937] Sending heartbeat to live-internal.fivem.net:30110
+[  23514953] Sending heartbeat to live-internal.fivem.net:30110
+[  23695000] Sending heartbeat to live-internal.fivem.net:30110
+[  23875015] Sending heartbeat to live-internal.fivem.net:30110
+[  24055015] Sending heartbeat to live-internal.fivem.net:30110
+[  24235031] Sending heartbeat to live-internal.fivem.net:30110
+[  24415062] Sending heartbeat to live-internal.fivem.net:30110
+[  24545531] Connecting: JuAnCh [ESP]
+[  24546765] [vRP] JuAnCh [ESP] (188.84.219.246) joined (user_id = 4)
+[  24567687] Sending heartbeat to live-internal.fivem.net:30110
+[  24595875] Syncing weather for: JuAnCh [ESP]
+[  24600218] [{"locked":false},{"locked":false},{"locked":false},{"locked":false}]
+[  24747718] Sending heartbeat to live-internal.fivem.net:30110
+[  24898234] [vRP] 188.84.219.246 disconnected (user_id = 4)
+[  24898250] Sending heartbeat to live-internal.fivem.net:30110
+[  25078265] Sending heartbeat to live-internal.fivem.net:30110
+[  25258281] Sending heartbeat to live-internal.fivem.net:30110
+[  25438312] Sending heartbeat to live-internal.fivem.net:30110
+[  25618312] Sending heartbeat to live-internal.fivem.net:30110
+[  25798359] Sending heartbeat to live-internal.fivem.net:30110
+[  25978406] Sending heartbeat to live-internal.fivem.net:30110
+[  26158421] Sending heartbeat to live-internal.fivem.net:30110
+[  26338421] Sending heartbeat to live-internal.fivem.net:30110
+[  26518468] Sending heartbeat to live-internal.fivem.net:30110
+[  26698500] Sending heartbeat to live-internal.fivem.net:30110
+[  26878531] Sending heartbeat to live-internal.fivem.net:30110
+[  27058546] Sending heartbeat to live-internal.fivem.net:30110
+[  27238546] Sending heartbeat to live-internal.fivem.net:30110
+[  27418546] Sending heartbeat to live-internal.fivem.net:30110
+[  27598578] Sending heartbeat to live-internal.fivem.net:30110
+[  27778625] Sending heartbeat to live-internal.fivem.net:30110
+[  27958671] Sending heartbeat to live-internal.fivem.net:30110
+[  28138671] Sending heartbeat to live-internal.fivem.net:30110
+[  28265187] Connecting: lenovo
+[  28266109] [vRP] lenovo (208.58.28.189) joined (user_id = 5)
+[  28301390] [vRP] 208.58.28.189 disconnected (user_id = 5)
+[  28301406] Sending heartbeat to live-internal.fivem.net:30110
+[  28481453] Sending heartbeat to live-internal.fivem.net:30110
+[  28661468] Sending heartbeat to live-internal.fivem.net:30110
+[  28841500] Sending heartbeat to live-internal.fivem.net:30110
+[  29021515] Sending heartbeat to live-internal.fivem.net:30110
+[  29201531] Sending heartbeat to live-internal.fivem.net:30110
+[  29381562] Sending heartbeat to live-internal.fivem.net:30110
+[  29561578] Sending heartbeat to live-internal.fivem.net:30110
+[  29741609] Sending heartbeat to live-internal.fivem.net:30110
+[  29799828] hitch warning: frame time of 159 milliseconds
+[  29921625] Sending heartbeat to live-internal.fivem.net:30110
+[  30101671] Sending heartbeat to live-internal.fivem.net:30110
+[  30281703] Sending heartbeat to live-internal.fivem.net:30110
+[  30297000] Connecting: INIX
+[  30298218] [vRP] INIX (85.84.175.160) joined (user_id = 6)
+[  30316031] [vRP] 85.84.175.160 disconnected (user_id = 6)
+[  30316031] Sending heartbeat to live-internal.fivem.net:30110
+[  30362421] Connecting: INIX
+[  30362921] [vRP] INIX (85.84.175.160) joined (user_id = 6)
+[  30369187] Sending heartbeat to live-internal.fivem.net:30110
+[  30421937] [vRP] 85.84.175.160 disconnected (user_id = 6)
+[  30421953] Sending heartbeat to live-internal.fivem.net:30110
+[  30601984] Sending heartbeat to live-internal.fivem.net:30110
+[  30782015] Sending heartbeat to live-internal.fivem.net:30110
+[  30962046] Sending heartbeat to live-internal.fivem.net:30110
+[  31142078] Sending heartbeat to live-internal.fivem.net:30110
+[  31322125] Sending heartbeat to live-internal.fivem.net:30110
+[  31502156] Sending heartbeat to live-internal.fivem.net:30110
+[  31682156] Sending heartbeat to live-internal.fivem.net:30110
+[  31862171] Sending heartbeat to live-internal.fivem.net:30110
+[  32042187] Sending heartbeat to live-internal.fivem.net:30110
+[  32222203] Sending heartbeat to live-internal.fivem.net:30110
+[  32402234] Sending heartbeat to live-internal.fivem.net:30110
+[  32582281] Sending heartbeat to live-internal.fivem.net:30110
+[  32762312] Sending heartbeat to live-internal.fivem.net:30110
+[  32942343] Sending heartbeat to live-internal.fivem.net:30110
+[  33122390] Sending heartbeat to live-internal.fivem.net:30110
+[  33223562] Connecting: Noi
+[  33224546] [vRP] Noi (71.29.46.98) joined (user_id = 7)
+[  33254125] [vRP] 71.29.46.98 disconnected (user_id = 7)
+[  33254125] Sending heartbeat to live-internal.fivem.net:30110
+[  33307265] Connecting: Noi
+[  33307765] [vRP] Noi (71.29.46.98) joined (user_id = 7)
+[  33312562] Sending heartbeat to live-internal.fivem.net:30110
+[  33393843] Syncing weather for: Noi
+[  33393843] Syncing weather for: Noi
+[  33395437] [{"locked":false},{"locked":false},{"locked":false},{"locked":false}]
+[  33492578] Sending heartbeat to live-internal.fivem.net:30110
+[  33672609] Sending heartbeat to live-internal.fivem.net:30110
+[  33759093] [vRP] 71.29.46.98 disconnected (user_id = 7)
+[  33759109] Sending heartbeat to live-internal.fivem.net:30110
+[  33939156] Sending heartbeat to live-internal.fivem.net:30110
+[  34119187] Sending heartbeat to live-internal.fivem.net:30110
+[  34299234] Sending heartbeat to live-internal.fivem.net:30110
+[  34479281] Sending heartbeat to live-internal.fivem.net:30110
+[  34659296] Sending heartbeat to live-internal.fivem.net:30110
+[  34839343] Sending heartbeat to live-internal.fivem.net:30110
+[  35019375] Sending heartbeat to live-internal.fivem.net:30110
+[  35199406] Sending heartbeat to live-internal.fivem.net:30110
+[  35379421] Sending heartbeat to live-internal.fivem.net:30110
+[  35559453] Sending heartbeat to live-internal.fivem.net:30110
+[  35739484] Sending heartbeat to live-internal.fivem.net:30110
+[  35919484] Sending heartbeat to live-internal.fivem.net:30110
+[  36099515] Sending heartbeat to live-internal.fivem.net:30110
+[  36279546] Sending heartbeat to live-internal.fivem.net:30110
+[  36459578] Sending heartbeat to live-internal.fivem.net:30110
+[  36639625] Sending heartbeat to live-internal.fivem.net:30110
+[  36819671] Sending heartbeat to live-internal.fivem.net:30110
+[  36999671] Sending heartbeat to live-internal.fivem.net:30110
+[  37179703] Sending heartbeat to live-internal.fivem.net:30110
+[  37359734] Sending heartbeat to live-internal.fivem.net:30110
+[  37539765] Sending heartbeat to live-internal.fivem.net:30110
+[  37719812] Sending heartbeat to live-internal.fivem.net:30110
+[  37899843] Sending heartbeat to live-internal.fivem.net:30110
+[  38079890] Sending heartbeat to live-internal.fivem.net:30110
+[  38259937] Sending heartbeat to live-internal.fivem.net:30110
+[  38439953] Sending heartbeat to live-internal.fivem.net:30110
+[  38619968] Sending heartbeat to live-internal.fivem.net:30110
+[  38800000] Sending heartbeat to live-internal.fivem.net:30110
+[  38980015] Sending heartbeat to live-internal.fivem.net:30110
+[  39160062] Sending heartbeat to live-internal.fivem.net:30110
+[  39340093] Sending heartbeat to live-internal.fivem.net:30110
+[  39520093] Sending heartbeat to live-internal.fivem.net:30110
+[  39700109] Sending heartbeat to live-internal.fivem.net:30110
+[  39880140] Sending heartbeat to live-internal.fivem.net:30110
+[  40060156] Sending heartbeat to live-internal.fivem.net:30110
+[  40240203] Sending heartbeat to live-internal.fivem.net:30110
+[  40420203] Sending heartbeat to live-internal.fivem.net:30110
+[  40600250] Sending heartbeat to live-internal.fivem.net:30110
+[  40780265] Sending heartbeat to live-internal.fivem.net:30110
+[  40960281] Sending heartbeat to live-internal.fivem.net:30110
+[  41140312] Sending heartbeat to live-internal.fivem.net:30110
+[  41320312] Sending heartbeat to live-internal.fivem.net:30110
+[  41500359] Sending heartbeat to live-internal.fivem.net:30110
+[  41680359] Sending heartbeat to live-internal.fivem.net:30110
+[  41860406] Sending heartbeat to live-internal.fivem.net:30110
+[  42040437] Sending heartbeat to live-internal.fivem.net:30110
+[  42220484] Sending heartbeat to live-internal.fivem.net:30110
+[  42249218] hitch warning: frame time of 213 milliseconds
+[  42400515] Sending heartbeat to live-internal.fivem.net:30110
+[  42580562] Sending heartbeat to live-internal.fivem.net:30110
+[  42760578] Sending heartbeat to live-internal.fivem.net:30110
+[  42940593] Sending heartbeat to live-internal.fivem.net:30110
+[  43120640] Sending heartbeat to live-internal.fivem.net:30110
+[  43300687] Sending heartbeat to live-internal.fivem.net:30110
+[  43480703] Sending heartbeat to live-internal.fivem.net:30110
+[  43660750] Sending heartbeat to live-internal.fivem.net:30110
+[  43840796] Sending heartbeat to live-internal.fivem.net:30110
+[  44020828] Sending heartbeat to live-internal.fivem.net:30110
+[  44200859] Sending heartbeat to live-internal.fivem.net:30110
+[  44380890] Sending heartbeat to live-internal.fivem.net:30110
+[  44560921] Sending heartbeat to live-internal.fivem.net:30110
+[  44740937] Sending heartbeat to live-internal.fivem.net:30110
+[  44920984] Sending heartbeat to live-internal.fivem.net:30110
+[  45101015] Sending heartbeat to live-internal.fivem.net:30110
+[  45281062] Sending heartbeat to live-internal.fivem.net:30110
+[  45461078] Sending heartbeat to live-internal.fivem.net:30110
+[  45641078] Sending heartbeat to live-internal.fivem.net:30110
+[  45821093] Sending heartbeat to live-internal.fivem.net:30110
+[  46001109] Sending heartbeat to live-internal.fivem.net:30110
+[  46181140] Sending heartbeat to live-internal.fivem.net:30110
+[  46361156] Sending heartbeat to live-internal.fivem.net:30110
+[  46541171] Sending heartbeat to live-internal.fivem.net:30110
+[  46721218] Sending heartbeat to live-internal.fivem.net:30110
+[  46901265] Sending heartbeat to live-internal.fivem.net:30110
+[  47081296] Sending heartbeat to live-internal.fivem.net:30110
+[  47261328] Sending heartbeat to live-internal.fivem.net:30110
+[  47441375] Sending heartbeat to live-internal.fivem.net:30110
+[  47621421] Sending heartbeat to live-internal.fivem.net:30110
+[  47801421] Sending heartbeat to live-internal.fivem.net:30110
+[  47981453] Sending heartbeat to live-internal.fivem.net:30110
+[  48161468] Sending heartbeat to live-internal.fivem.net:30110
+[  48341484] Sending heartbeat to live-internal.fivem.net:30110
+[  48521531] Sending heartbeat to live-internal.fivem.net:30110
+[  48701578] Sending heartbeat to live-internal.fivem.net:30110
+[  48881578] Sending heartbeat to live-internal.fivem.net:30110
+[  49061593] Sending heartbeat to live-internal.fivem.net:30110
+[  49241625] Sending heartbeat to live-internal.fivem.net:30110
+[  49421671] Sending heartbeat to live-internal.fivem.net:30110
+[  49601703] Sending heartbeat to live-internal.fivem.net:30110
+[  49781718] Sending heartbeat to live-internal.fivem.net:30110
+[  49961718] Sending heartbeat to live-internal.fivem.net:30110
+[  50141734] Sending heartbeat to live-internal.fivem.net:30110
+[  50321765] Sending heartbeat to live-internal.fivem.net:30110
+[  50501796] Sending heartbeat to live-internal.fivem.net:30110
+[  50681828] Sending heartbeat to live-internal.fivem.net:30110
+[  50861843] Sending heartbeat to live-internal.fivem.net:30110
+[  51041875] Sending heartbeat to live-internal.fivem.net:30110
+[  51047531] hitch warning: frame time of 261 milliseconds
+[  51221875] Sending heartbeat to live-internal.fivem.net:30110
+[  51401906] Sending heartbeat to live-internal.fivem.net:30110
+[  51581937] Sending heartbeat to live-internal.fivem.net:30110
+[  51761968] Sending heartbeat to live-internal.fivem.net:30110
+[  51942015] Sending heartbeat to live-internal.fivem.net:30110
+[  52122031] Sending heartbeat to live-internal.fivem.net:30110
+[  52302062] Sending heartbeat to live-internal.fivem.net:30110
+[  52482078] Sending heartbeat to live-internal.fivem.net:30110
+[  52662125] Sending heartbeat to live-internal.fivem.net:30110
+[  52842140] Sending heartbeat to live-internal.fivem.net:30110
+[  53022156] Sending heartbeat to live-internal.fivem.net:30110
+[  53202171] Sending heartbeat to live-internal.fivem.net:30110
+[  53382203] Sending heartbeat to live-internal.fivem.net:30110
+[  53562203] Sending heartbeat to live-internal.fivem.net:30110
+[  53742234] Sending heartbeat to live-internal.fivem.net:30110
+[  53922281] Sending heartbeat to live-internal.fivem.net:30110
+[  54102296] Sending heartbeat to live-internal.fivem.net:30110
+[  54282328] Sending heartbeat to live-internal.fivem.net:30110
+[  54462328] Sending heartbeat to live-internal.fivem.net:30110
+[  54642375] Sending heartbeat to live-internal.fivem.net:30110
+[  54822421] Sending heartbeat to live-internal.fivem.net:30110
+[  55002437] Sending heartbeat to live-internal.fivem.net:30110
+[  55182484] Sending heartbeat to live-internal.fivem.net:30110
+[  55362515] Sending heartbeat to live-internal.fivem.net:30110
+[  55542531] Sending heartbeat to live-internal.fivem.net:30110
+[  55722546] Sending heartbeat to live-internal.fivem.net:30110
+[  55902593] Sending heartbeat to live-internal.fivem.net:30110
+[  56082609] Sending heartbeat to live-internal.fivem.net:30110
+[  56262609] Sending heartbeat to live-internal.fivem.net:30110
+[  56442609] Sending heartbeat to live-internal.fivem.net:30110
+[  56622640] Sending heartbeat to live-internal.fivem.net:30110
+[  56802671] Sending heartbeat to live-internal.fivem.net:30110
+[  56982718] Sending heartbeat to live-internal.fivem.net:30110
+[  57162734] Sending heartbeat to live-internal.fivem.net:30110
+[  57342750] Sending heartbeat to live-internal.fivem.net:30110
+[  57522796] Sending heartbeat to live-internal.fivem.net:30110
+[  57702843] Sending heartbeat to live-internal.fivem.net:30110
+[  57882859] Sending heartbeat to live-internal.fivem.net:30110
+[  58062890] Sending heartbeat to live-internal.fivem.net:30110
+[  58242937] Sending heartbeat to live-internal.fivem.net:30110
+[  58422953] Sending heartbeat to live-internal.fivem.net:30110
+[  58602953] Sending heartbeat to live-internal.fivem.net:30110
+[  58782968] Sending heartbeat to live-internal.fivem.net:30110
+[  58962984] Sending heartbeat to live-internal.fivem.net:30110
+[  59142984] Sending heartbeat to live-internal.fivem.net:30110
+[  59323031] Sending heartbeat to live-internal.fivem.net:30110
+[  59503062] Sending heartbeat to live-internal.fivem.net:30110
+[  59683062] Sending heartbeat to live-internal.fivem.net:30110
+[  59863078] Sending heartbeat to live-internal.fivem.net:30110
+[  60043125] Sending heartbeat to live-internal.fivem.net:30110
+[  60114796] Updating Weather to CLEARING for all players.
+[  60223156] Sending heartbeat to live-internal.fivem.net:30110
+[  60403203] Sending heartbeat to live-internal.fivem.net:30110
+[  60583250] Sending heartbeat to live-internal.fivem.net:30110
+[  60763250] Sending heartbeat to live-internal.fivem.net:30110
+[  60943281] Sending heartbeat to live-internal.fivem.net:30110
+[  61123312] Sending heartbeat to live-internal.fivem.net:30110
+[  61303328] Sending heartbeat to live-internal.fivem.net:30110
+[  61483359] Sending heartbeat to live-internal.fivem.net:30110
+[  61663390] Sending heartbeat to live-internal.fivem.net:30110
+[  61843437] Sending heartbeat to live-internal.fivem.net:30110
+[  62023453] Sending heartbeat to live-internal.fivem.net:30110
+[  62203484] Sending heartbeat to live-internal.fivem.net:30110
+[  62383531] Sending heartbeat to live-internal.fivem.net:30110
+[  62563562] Sending heartbeat to live-internal.fivem.net:30110
+[  62743609] Sending heartbeat to live-internal.fivem.net:30110
+[  62923640] Sending heartbeat to live-internal.fivem.net:30110
+[  63103671] Sending heartbeat to live-internal.fivem.net:30110
+[  63283671] Sending heartbeat to live-internal.fivem.net:30110
+[  63463718] Sending heartbeat to live-internal.fivem.net:30110
+[  63643765] Sending heartbeat to live-internal.fivem.net:30110
+[  63823781] Sending heartbeat to live-internal.fivem.net:30110
+[  64003828] Sending heartbeat to live-internal.fivem.net:30110
+[  64183875] Sending heartbeat to live-internal.fivem.net:30110
+[  64363906] Sending heartbeat to live-internal.fivem.net:30110
+[  64543921] Sending heartbeat to live-internal.fivem.net:30110
+[  64723953] Sending heartbeat to live-internal.fivem.net:30110
+[  64904000] Sending heartbeat to live-internal.fivem.net:30110
+[  65084031] Sending heartbeat to live-internal.fivem.net:30110
+[  65264046] Sending heartbeat to live-internal.fivem.net:30110
+[  65444093] Sending heartbeat to live-internal.fivem.net:30110
+[  65624125] Sending heartbeat to live-internal.fivem.net:30110
+[  65804156] Sending heartbeat to live-internal.fivem.net:30110
+[  65876453] hitch warning: frame time of 320 milliseconds
+[  65984187] Sending heartbeat to live-internal.fivem.net:30110
+[  66164250] Sending heartbeat to live-internal.fivem.net:30110
+[  66344281] Sending heartbeat to live-internal.fivem.net:30110
+[  66524312] Sending heartbeat to live-internal.fivem.net:30110
+[  66704343] Sending heartbeat to live-internal.fivem.net:30110
+[  66884375] Sending heartbeat to live-internal.fivem.net:30110
+[  67064406] Sending heartbeat to live-internal.fivem.net:30110
+[  67244453] Sending heartbeat to live-internal.fivem.net:30110
+[  67424500] Sending heartbeat to live-internal.fivem.net:30110
+[  67604515] Sending heartbeat to live-internal.fivem.net:30110
+[  67784531] Sending heartbeat to live-internal.fivem.net:30110
+[  67964546] Sending heartbeat to live-internal.fivem.net:30110
+[  68144562] Sending heartbeat to live-internal.fivem.net:30110
+[  68324593] Sending heartbeat to live-internal.fivem.net:30110
+[  68504640] Sending heartbeat to live-internal.fivem.net:30110
+[  68684671] Sending heartbeat to live-internal.fivem.net:30110
+[  68864703] Sending heartbeat to live-internal.fivem.net:30110
+[  69044734] Sending heartbeat to live-internal.fivem.net:30110
+[  69224781] Sending heartbeat to live-internal.fivem.net:30110
+[  69404796] Sending heartbeat to live-internal.fivem.net:30110
+[  69584828] Sending heartbeat to live-internal.fivem.net:30110
+[  69764859] Sending heartbeat to live-internal.fivem.net:30110
+[  69944906] Sending heartbeat to live-internal.fivem.net:30110
+[  70124937] Sending heartbeat to live-internal.fivem.net:30110
+[  70304953] Sending heartbeat to live-internal.fivem.net:30110
+[  70484984] Sending heartbeat to live-internal.fivem.net:30110
+[  70665031] Sending heartbeat to live-internal.fivem.net:30110
+[  70845046] Sending heartbeat to live-internal.fivem.net:30110
+[  71025078] Sending heartbeat to live-internal.fivem.net:30110
+[  71205093] Sending heartbeat to live-internal.fivem.net:30110
+[  71385109] Sending heartbeat to live-internal.fivem.net:30110
+[  71565109] Sending heartbeat to live-internal.fivem.net:30110
+[  71745109] Sending heartbeat to live-internal.fivem.net:30110
+[  71925109] Sending heartbeat to live-internal.fivem.net:30110
+[  72105156] Sending heartbeat to live-internal.fivem.net:30110
+[  72285187] Sending heartbeat to live-internal.fivem.net:30110
+[  72465218] Sending heartbeat to live-internal.fivem.net:30110
+[  72645250] Sending heartbeat to live-internal.fivem.net:30110
+[  72737546] hitch warning: frame time of 214 milliseconds
+[  72825281] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[       156] Initializing Mono completed
+[       172] Hello!
+[       343] Found new resource Apartments in C:/Users\Administrator\Desktop\FXSERVER/resources//Apartments
+[       359] Found new resource banking in C:/Users\Administrator\Desktop\FXSERVER/resources//banking
+[       359] Found new resource bob74_ipl in C:/Users\Administrator\Desktop\FXSERVER/resources//bob74_ipl
+[       375] Found new resource CustomScripts in C:/Users\Administrator\Desktop\FXSERVER/resources//CustomScripts
+[       375] Found new resource fivem in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem
+[       375] Found new resource fivem-awesome1501 in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-awesome1501
+[       390] Found new resource fivem-map-hipster in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-hipster
+[       390] Found new resource fivem-map-skater in C:/Users\Administrator\Desktop\FXSERVER/resources//fivem-map-skater
+[       406] Found new resource indicators in C:/Users\Administrator\Desktop\FXSERVER/resources//indicators
+[       422] Found new resource knockout in C:/Users\Administrator\Desktop\FXSERVER/resources//knockout
+[       422] Found new resource lscustoms in C:/Users\Administrator\Desktop\FXSERVER/resources//lscustoms
+[       437] Found new resource lux_vehcontrol in C:/Users\Administrator\Desktop\FXSERVER/resources//lux_vehcontrol
+[       437] Found new resource map in C:/Users\Administrator\Desktop\FXSERVER/resources//map
+[       453] Found new resource mysql-async in C:/Users\Administrator\Desktop\FXSERVER/resources//mysql-async
+[       453] Found new resource online in C:/Users\Administrator\Desktop\FXSERVER/resources//online
+[       468] Found new resource pNotify in C:/Users\Administrator\Desktop\FXSERVER/resources//pNotify
+[       468] Found new resource pvp in C:/Users\Administrator\Desktop\FXSERVER/resources//pvp
+[       468] Found new resource railhouse in C:/Users\Administrator\Desktop\FXSERVER/resources//railhouse
+[       468] Found new resource runcode in C:/Users\Administrator\Desktop\FXSERVER/resources//runcode
+[       484] Found new resource simeonfix in C:/Users\Administrator\Desktop\FXSERVER/resources//simeonfix
+[       500] Found new resource sirencontrols in C:/Users\Administrator\Desktop\FXSERVER/resources//sirencontrols
+[       500] Found new resource ThereMap in C:/Users\Administrator\Desktop\FXSERVER/resources//ThereMap
+[       500] Found new resource TruckerJob in C:/Users\Administrator\Desktop\FXSERVER/resources//TruckerJob
+[       515] Found new resource Vhealth in C:/Users\Administrator\Desktop\FXSERVER/resources//Vhealth
+[       515] Found new resource VK_interiors in C:/Users\Administrator\Desktop\FXSERVER/resources//VK_interiors
+[       515] Found new resource vrp in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp
+[       531] Found new resource vRP_AdvancedFuel in C:/Users\Administrator\Desktop\FXSERVER/resources//vRP_AdvancedFuel
+[       547] Found new resource vrp_bankrobbery in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_bankrobbery
+[       547] Found new resource vrp_barbershop in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_barbershop
+[       547] Found new resource vrp_basic_menu in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_basic_menu
+[       562] Found new resource vrp_basic_mission in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_basic_mission
+[       578] Found new resource vrp_carwash in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_carwash
+[       578] Found new resource vrp_job_display in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_job_display
+[       593] Found new resource vrp_loadfreeze in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_loadfreeze
+[       593] Found new resource vrp_mysql in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_mysql
+[       609] Found new resource vrp_playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//vrp_playernames
+[       625] Found new resource vsync in C:/Users\Administrator\Desktop\FXSERVER/resources//vsync
+[       625] Found new resource whitelist in C:/Users\Administrator\Desktop\FXSERVER/resources//whitelist
+[       625] Found new resource blips in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/blips
+[       640] Found new resource club_B in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/club_B
+[       640] Found new resource club_R in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/club_R
+[       656] Found new resource racetrack in C:/Users\Administrator\Desktop\FXSERVER/resources//[blips]/racetrack
+[       656] Found new resource Ambulance in C:/Users\Administrator\Desktop\FXSERVER/resources//[EMS Vehicles]/Ambulance
+[       672] Found new resource FireTruck in C:/Users\Administrator\Desktop\FXSERVER/resources//[EMS Vehicles]/FireTruck
+[       672] Found new resource race in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race
+[       687] Found new resource race-test in C:/Users\Administrator\Desktop\FXSERVER/resources//[gamemodes]/race-test
+[       703] Found new resource channelfeed in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/channelfeed
+[       703] Found new resource irc in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/irc
+[       703] Found new resource obituary in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary
+[       718] Found new resource obituary-deaths in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/obituary-deaths
+[       734] Found new resource playernames in C:/Users\Administrator\Desktop\FXSERVER/resources//[gameplay]/playernames
+[       734] Found new resource repairtruck in C:/Users\Administrator\Desktop\FXSERVER/resources//[Job Vehicles]/repairtruck
+[       750] Found new resource mapmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[managers]/mapmanager
+[       765] Found new resource Ped in C:/Users\Administrator\Desktop\FXSERVER/resources//[Ped]/Ped
+[       765] Found new resource detective in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/detective
+[       765] Found new resource ems in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/ems
+[       781] Found new resource hway in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/hway
+[       781] Found new resource police in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/police
+[       781] Found new resource sheriff in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/sheriff
+[       797] Found new resource sheriffd in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/sheriffd
+[       812] Found new resource swat in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Skins]/swat
+[       812] Found new resource bcso in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/bcso
+[       812] Found new resource Captain14_LSPD in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/Captain14_LSPD
+[       828] Found new resource Captain14_Sheriff in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/Captain14_Sheriff
+[       843] Found new resource DodgeCharger2014 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/DodgeCharger2014
+[       843] Found new resource FordExplorer in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/FordExplorer
+[       859] Found new resource hwycars in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/hwycars
+[       859] Found new resource pol718 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/pol718
+[       875] Found new resource polf430 in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/polf430
+[       875] Found new resource policeb in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/policeb
+[       890] Found new resource polmav in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/polmav
+[       890] Found new resource riot in C:/Users\Administrator\Desktop\FXSERVER/resources//[Police Vehicles]/riot
+[       890] Found new resource baseevents in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/baseevents
+[       906] Found new resource chat in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/chat
+[       922] Found new resource hardcap in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/hardcap
+[       922] Found new resource rconlog in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/rconlog
+[       922] Found new resource scoreboard in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/scoreboard
+[       937] Found new resource sessionmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/sessionmanager
+[       937] Found new resource spawnmanager in C:/Users\Administrator\Desktop\FXSERVER/resources//[system]/spawnmanager
+[       953] Found new resource betaguns in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/betaguns
+[       953] Found new resource gameInit in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/gameInit
+[       953] Found new resource keks in C:/Users\Administrator\Desktop\FXSERVER/resources//[test]/keks
+[      1015] Started resource sessionmanager
+[      1125] Started resource mapmanager
+[      1140] Started resource chat
+[      1140] Started resource spawnmanager
+[      1156] Started resource fivem
+[      1156] Started gametype Freeroam
+[      1156] Started resource hardcap
+[      1172] Started resource rconlog
+[      1172] Started resource scoreboard
+[      1687] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1641857294
+[      1703] Instantiated instance of script MySQLAsync.MySQLAsync.
+[      1703] Started resource mysql-async
+[      1765] Started resource playernames
+[      1781] Started resource vsync
+[      1875] Started resource keks
+[      2140] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1276957724
+[      2218] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[      2218] 
+[      2218] 
+[      2218] Server stack trace: 
+[      2218]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[      2218]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      2218]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[      2218]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[      2218]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      2218]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[      2218] 
+[      2218] Exception rethrown at [0]: 
+[      2218]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[      2218]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[      2250] Instantiated instance of script vRP.MySQL.
+[      2250] Started resource vrp_mysql
+[      2422] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1276957724
+[      2609] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1276957724
+[      2890] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1276957724
+[      2922] [vRP] launch version 1498403827
+[      2953] [vRP] init base tables
+[      3125] Started resource vrp
+[      3156] Started resource vrp_playernames
+[      3187] Started resource vrp_basic_mission
+[      3203] Started resource vrp_barbershop
+[      3218] Started resource vrp_carwash
+[      3218] Started resource vrp_loadfreeze
+[      3234] launched
+[      3234] Started resource vRP_AdvancedFuel
+[      3250] Started resource vrp_job_display
+[      3265] Started resource vrp_bankrobbery
+[      3297] Started resource vrp_basic_menu
+[      3297] Started resource railhouse
+[      3312] Started resource online
+[      3328] Started resource bob74_ipl
+[      3328] Started resource pvp
+[      3390] Started resource Ped
+[      3406] Started resource banking
+[      3406] Started resource blips
+[      3406] Started resource club_B
+[      3422] Started resource club_R
+[      3422] Started resource racetrack
+[      3437] Started resource map
+[      3437] Started resource Vhealth
+[      3453] Started resource VK_interiors
+[      3453] Started resource ThereMap
+[      3468] Started resource indicators
+[      3468] Started resource simeonfix
+[      3484] Started resource pNotify
+[      3500] Started resource lux_vehcontrol
+[      3515] Started resource lscustoms
+[      3531] Started resource TruckerJob
+[      3547] Started resource CustomScripts
+[      3562] Started resource bcso
+[      3578] Started resource Captain14_LSPD
+[      3593] Started resource Captain14_Sheriff
+[      3593] Started resource DodgeCharger2014
+[      3609] Started resource FordExplorer
+[      3625] Started resource hwycars
+[      3625] Started resource pol718
+[      3640] Started resource polf430
+[      3656] Started resource policeb
+[      3672] Started resource polmav
+[      3734] Started resource riot
+[      3734] Started resource detective
+[      3750] Started resource ems
+[      3765] Started resource hway
+[      3765] Started resource police
+[      3781] Started resource sheriff
+[      3797] Started resource sheriffd
+[      3812] Started resource swat
+[      3843] Started resource repairtruck
+[      3843] ^3Couldn't find resource Audi_C7_RS6.^7
+[      3843] ^3Couldn't find resource Audi_S5.^7
+[      3843] ^3Couldn't find resource Lexus_RC350.^7
+[      3843] ^3Couldn't find resource r8ppi.^7
+[      3843] ^3Couldn't find resource c10custom.^7
+[      3843] ^3Couldn't find resource chantom.^7
+[      3843] ^3Couldn't find resource skyline.^7
+[      3859] ^3Couldn't find resource subaruimpreza.^7
+[      3859] ^3Couldn't find resource f4rr.^7
+[      3859] ^3Couldn't find resource firebird.^7
+[      3859] ^3Couldn't find resource ford.^7
+[      3859] ^3Couldn't find resource GT.^7
+[      3859] ^3Couldn't find resource moto.^7
+[      3859] ^3Couldn't find resource moto2.^7
+[      3859] ^3Couldn't find resource moto3.^7
+[      3859] ^3Couldn't find resource evo.^7
+[      3875] ^3Couldn't find resource truck.^7
+[      3875] Could not open logo.png for reading.
+[      3875] Authenticating server license key...
+[      4453] Server license key authentication succeeded. Welcome!
+[      4531] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[      4531] Sending heartbeat to live-internal.fivem.net:30110
+[      4578] Started resource fivem-map-hipster
+[      4578] Started map fivem-map-hipster
+[      4672] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1641857294
+[      4781] hitch warning: frame time of 280 milliseconds
